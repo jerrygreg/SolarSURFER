@@ -1,0 +1,8 @@
+[package]
+name = "pipe_testing_server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winapi = "0.3.9"
+winpipe = "0.1.1"
